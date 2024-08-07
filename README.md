@@ -3,9 +3,6 @@
 ## Sobre Mim
 Sou um entusiasta da tecnologia e estou apenas começando minha jornada no mundo da programação! 🚀 Atualmente, estou mergulhando fundo na linguagem Java e JavaScript através do programa Geração Caldeira. Estou empolgado para aprender, crescer e contribuir com a comunidade de desenvolvedores.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstv-lima&show_icons=true&theme=transparent)
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gstv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
