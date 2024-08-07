@@ -1,7 +1,7 @@
 # Olá, Eu Sou o Gustavo! 👋
 
 ## Sobre Mim
-Sou um entusiasta da tecnologia e estou apenas começando minha jornada no mundo da programação! 🚀 Atualmente, estou mergulhando fundo na linguagem Java e JavaScript através do programa Geração Caldeira. Estou empolgado para aprender, crescer e contribuir com a comunidade de desenvolvedores.
+Sou um entusiasta da tecnologia e estou apenas começando minha jornada no mundo da programação! 🚀 Atualmente, estou mergulhando a fundo nas linguagens Java e JavaScript. Estou empolgado para aprender, crescer e contribuir com a comunidade de desenvolvedores.
 
 
 <div style="display: inline_block"><br>
