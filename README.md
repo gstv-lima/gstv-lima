@@ -3,7 +3,7 @@
   Profile README inspired by animated portfolio layouts
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=140&section=header&text=Gustavo%20de%20Lima&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Backend%20&descAlignY=55&descSize=16" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=140&section=header&text=Gustavo%20de%20Lima&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20&descAlignY=55&descSize=16" alt="header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
