@@ -3,7 +3,7 @@
   Profile README inspired by animated portfolio layouts
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=140&section=header&text=Gustavo%20de%20Lima&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Backend%20%26%20Ops&descAlignY=55&descSize=16" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=140&section=header&text=Gustavo%20de%20Lima&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Backend%20and%20Ops&descAlignY=55&descSize=16" alt="header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -24,7 +24,7 @@ I moved from technical support and network analysis into software development, s
 
 ### What I work on
 
-- **APIs & automation** — REST services, internal integrations, and process automation with Python  
+- **APIs and automation** — REST services, internal integrations, and process automation with Python  
 - **Containerized systems** — microservices on Linux with Docker, Nginx, and Redis  
 - **Production reliability** — debugging, log analysis, and keeping services stable under real load  
 
