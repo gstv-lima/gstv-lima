@@ -47,15 +47,6 @@ I moved from technical support and network analysis into software development, s
 
 ---
 
-### GitHub vibes
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gstv-lima&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=E2E8F0" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstv-lima&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E2E8F0" alt="Top languages" />
-</p>
-
----
-
 ### Connect with me
 
 <p align="center">
